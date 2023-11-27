@@ -1,6 +1,7 @@
+// public/monaco-editor/0.38.0/min/vs/loader.js
 const config = {
   paths: {
-    vs: 'https://cdn.jsdelivr.net/npm/monaco-editor@0.38.0/min/vs',
+    vs: '/monaco-editor/0.38.0/min/vs',
   },
 }
 
